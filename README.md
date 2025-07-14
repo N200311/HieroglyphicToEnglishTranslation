@@ -1,0 +1,2 @@
+# HieroglyphicToEnglishTranslation
+Translating ancient Egyptian Hieroglyphs into English
